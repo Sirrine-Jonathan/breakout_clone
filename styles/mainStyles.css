@@ -1,0 +1,32 @@
+body { 
+	padding: 0; 
+	margin: 0; 
+	font-family: 'Audiowide', cursive;
+	background-color: #000;
+	color: #fff;
+}
+
+h1 {
+	margin: 2% auto;
+	text-align: center;
+}
+
+canvas { 
+	background: #000; 
+	display: block; 
+	margin: 0 auto; 
+	cursor: none;
+}
+
+#gameInfo {
+	text-align: center;
+}
+
+#msg {
+	font-size: 2em;
+}
+
+#scoreBoard {
+	display: flex;
+	justify-content: space-between;
+}
