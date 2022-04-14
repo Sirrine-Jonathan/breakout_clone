@@ -10,5 +10,5 @@ Looking for any sort of contribution.
  - Different sounds
  - Documentation
  - Better comments to explain the code
- - 
+ 
  Hope you enjoy playing the game and the chance to practice building it up.  
