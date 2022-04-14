@@ -9,8 +9,6 @@ Looking for any sort of contribution.
  - More special moves using different keypresses.
  - Different sounds
  - Documentation
- - Better comments to explain the code to newbies
- - If you want to reorganize the existing code 
- - Anything else just go ahead and code it
- - Or open up an issue
+ - Better comments to explain the code
+ - 
  Hope you enjoy playing the game and the chance to practice building it up.  
